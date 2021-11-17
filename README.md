@@ -1,4 +1,4 @@
-# Starter for the Digital Garden theme
+# Sydney garden
 
 Quickly get started using the Gatsby garden theme! This starter creates a new Gatsby site that is preconfigured to work with the [Gatsby garden theme](https://www.npmjs.com/package/gatsby-theme-garden).
 
@@ -35,10 +35,9 @@ Here are the top-level files and directories you'll see in a site created using 
 ```text
 gatsby-starter-digital-garden
 ├── content
-│   └── garden
-│       ├── example-dir
-│       │   └── hi.mdx
-│       └── hello.mdx
+│   └── sydney
+│       ├── notes
+│          └── Hello World.mdx
 ├── .gitignore
 ├── .prettierrc
 ├── gatsby-config.js
@@ -48,7 +47,7 @@ gatsby-starter-digital-garden
 └── README.md
 ```
 
-1.  **`/content`**: A content folder holding assets that the theme expects to exist. In this case, you're starting with some example notes! Delete the notes contained in `/content/garden` and start writing your own!
+1.  **`/content`**: A content folder holding assets that the theme expects to exist. In this case, you're starting with some example notes! Delete the notes contained in `/content/sydney/notes` and start writing your own!
 
 2.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
