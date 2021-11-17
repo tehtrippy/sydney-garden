@@ -1,0 +1,17 @@
+{
+  "name": "sydney-garden",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.2.0",
+    "gatsby-theme-garden": "^0.1.66",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
